@@ -21,11 +21,11 @@ body {
 }
 
 .heading {
-    font-weight: 900;
+    font-weight: 600;
     color: var(--primario);
 }
 
 .seccion {
-    min-height: 1000px;
+    min-height: 600px;
     padding: 2rem;
 }
